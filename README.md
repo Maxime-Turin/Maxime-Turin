@@ -2,6 +2,8 @@
 
 <h3 align=center> 🐤 Baby Developer with an appetite for backend technologies ⚙️  </h3>
 
+<div align=right> <em>Curious because that's how we learn 🙈 </em> <div>
+
 
 <div align=center> 
   
