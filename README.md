@@ -10,8 +10,7 @@
 <a href=https://www.linkedin.com/in/maxime-turin-435284233/>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href=mailto:maxime.turin@gmail.com>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 </div>
-
----
+  
 
 ### Learning in progress 🎓  
 
@@ -20,7 +19,7 @@
 
 <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="50" height="50" title="nodejs"><img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="pgsql" width="50" height="50" title="pgsql"><img src="https://cdn.svgporn.com/logos/npm-icon.svg" alt="npm" width="50" height="50" title="npm"><img src="https://cdn.svgporn.com/logos/sequelize.svg" alt="sequelize" width="50" height="50" title="sequelize">
 
---- 
+<br> 
 
 ### My environment 🖥️   
 
@@ -30,7 +29,7 @@
   
 </div>
  
----
+<br>
 
 ### My current projects 🔧  
 
