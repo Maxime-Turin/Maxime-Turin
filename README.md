@@ -1,40 +1,30 @@
-<h1 align=center> <span>Maxime TURIN <br> 🇫🇷 </span></h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maxime Turin
+====================================================================================================================================
 
-<h3 align=center> 🐤 Baby Developer with an appetite for backend technologies ⚙️  </h3>
+JavaScript Developer
+--------------------
 
-<div align=right> <em>Curious because that's how we learn 🙈 </em> </div>
+I've been learning to code for over a year after a career change. Like everyone else, I started with HTML, but I quickly fell in love with backend technologies after discovering javascript, nodeJS and SQL. Now, I'm looking for a company where I can develop my skills and/or acquire new ones.
 
-
-<div align=center> 
-  
-<a href=https://www.linkedin.com/in/maxime-turin-435284233/>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href=mailto:maxime.turin@gmail.com>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-
-</div>
-  
-
-### Learning in progress 🎓  
-
-<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="js" width="50" height="50" title="js"><img src="https://cdn.svgporn.com/logos/html-5.svg" alt="html" width="50" height="50" title="html"><img src="https://cdn.svgporn.com/logos/css-3.svg" alt="css" width="50" height="50" title="css">
-
-
-<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="50" height="50" title="nodejs"><img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="pgsql" width="50" height="50" title="pgsql"><img src="https://cdn.svgporn.com/logos/npm-icon.svg" alt="npm" width="50" height="50" title="npm"><img src="https://cdn.svgporn.com/logos/sequelize.svg" alt="sequelize" width="50" height="50" title="sequelize">
-
-<br> 
-
-### My environment 🖥️   
-
-<div style={justify-content: center;}>
-
-<img src="https://cdn.svgporn.com/logos/linux-tux.svg" alt="linux" width="50" height="50" margin-right="50" title="linux"><img src="https://cdn.svgporn.com/logos/ubuntu.svg" alt="ubuntu" width="50"  height="50" padding="5" title="ubuntu"><img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="vscode" width="50" height="50" padding="5" title="vscode"><img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="git" width="50" height="50" padding="5" title="git">
-  
-</div>
- 
-<br>
-
-### My current projects 🔧  
-
-<a href=https://github.com/Maxime-Turin/csv_to_pdf/tree/development> ![csv_to_pdf](https://img.shields.io/badge/csv_to_pdf-1DB954.svg?style=for-the-badge) </a>  
-
-<!----
-
-### Others project 🛠️  
+*   🌍  I'm based in France
+*   🖥️  See my portfolio at [Termimax](http://termimax.surge.sh/)
+*   ✉️  You can contact me at [maxime.turin@gmail.com](mailto:maxime.turin@gmail.com)
+*   🚀  I'm currently working on [Amical Football](http://amical-football.surge.sh/)
+*   🧠  I'm learning MongoDB, GraphQL and React### Skills<p align="left">
+                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+                                <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+                                <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+                                <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+                                <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+                                <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/Maxime-Turin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/maxime-turin/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<a href="https://github.com/Maxime-Turin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxime-Turin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/Maxime-Turin/cv-terminal" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Maxime-Turin&repo=cv-terminal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
