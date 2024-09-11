@@ -1,10 +1,10 @@
 ![](header.png)
 ====================================================================================================================================
 
-Student at [CESI](https://www.cesi.fr/formation/admission-parallele-bachelor-concepteur-trice-developpeur-se-informatique-en-alternance-2520481/), Dijon (FR).  
->Studying web and software development.
+Student at [U,niversité de Bourgogne](https://www.u-bourgogne.fr/), Dijon (FR).  
+>Studying data oriented software development and AI.
 
-Apprenticeship at [V33](https://www.v33.fr/), Domblans (FR).
->Working on SAP/ABAP.  
+Apprenticeship at [Enedis](https://www.enedis.fr/), Besançon (FR).
+>Working on web tech.  
 
 
